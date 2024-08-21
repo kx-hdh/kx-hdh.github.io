@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
   title: "KX-HDH",
   description: "Some Records",
-  head: [["link", { rel: "icon", href: "/assets/favicon.ico" }]],
+  head: [["link", { rel: "icon", href: "/kx.svg" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
